@@ -1,0 +1,29 @@
+-----------------------------------------------------------------------------------------------
+Epic description
+Implement Quality Metric Calculations for Engineers
+
+-----------------------------------------------------------------------------------------------
+User Story #1
+As a System Quality Engineer
+I want to calculate the defect density
+So that I can keep my job in these trying times.
+
+User Story #2
+As a System Quality Engineer
+I want to calculate the Shipped Source Instructions (SSI)
+So that I can keep my job in these trying times.
+
+User Story #3
+As a System Quality Engineer
+I want to calculate the failure intensity using Musa Logarithmic model
+So that I can save time calculating it in my head.
+
+User Story #4
+As a System Quality Engineer
+I want to calculate the number of expected failures using Musa Logarithmic model
+So that I can calculate how much I have failed in my Engineering Career.
+
+-----------------------------------------------------------------------------------------------
+User Story #1 & User Story #2 ==> DefectDensity.feature
+
+User Story #3 & User Story #4 ==> FailureIntensity.feature
